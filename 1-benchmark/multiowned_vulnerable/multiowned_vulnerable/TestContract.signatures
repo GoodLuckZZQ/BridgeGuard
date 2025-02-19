@@ -1,0 +1,5 @@
+cd5c4c70: deleteOwner(address)
+85952454: newOwner(address)
+022914a7: owners(address)
+ebf0c717: root()
+853828b6: withdrawAll()

@@ -1,0 +1,4 @@
+5e29c08e: bullStrategy()
+0067c385: flashDeposit((uint256,uint256,uint256,uint24,uint24))
+c0dd0169: flashWithdraw((uint256,uint256,uint256,uint24,uint24))
+fa461e33: uniswapV3SwapCallback(int256,int256,bytes)

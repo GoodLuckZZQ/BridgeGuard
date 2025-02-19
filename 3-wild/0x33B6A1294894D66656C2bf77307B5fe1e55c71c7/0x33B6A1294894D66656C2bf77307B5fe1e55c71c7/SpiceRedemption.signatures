@@ -1,0 +1,20 @@
+Function signatures:
+9358928b: circulatingSupply()
+2f940c70: emergencyWithdraw(uint256,address)
+8da5cb5b: owner()
+8456cb59: pause()
+5c975abb: paused()
+db006a75: redeem(uint256)
+715018a6: renounceOwnership()
+4b0c9a91: spice()
+349abcdb: spiceBurned(address)
+6ea056a9: sweep(address,uint256)
+f2fde38b: transferOwnership(address)
+3f4ba83a: unpause()
+d39d3f42: viewBacking(uint256)
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)
+62e78cea01bee320cd4e420270b5ea74000d11b0c9f74754ebdbfc544b05a258: Paused(address)
+f3a670cd3af7d64b488926880889d08a8585a138ff455227af6737339a1ec262: Redeemed(address,uint256,uint256)
+5db9ee0a495bf2e6ff9c91a7834c1ba4fdd244a5e8aa4e537bd38aeae4b073aa: Unpaused(address)

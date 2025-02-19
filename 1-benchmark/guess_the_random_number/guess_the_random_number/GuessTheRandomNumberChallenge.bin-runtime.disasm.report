@@ -1,0 +1,19 @@
+
+All paths:
+1: []-2-[0, 76]
+2: ['4ba4c16b', 'guess(uint8)']-7-[0, 13, 81, 153, 175, 276, 106]
+3: ['4ba4c16b', 'guess(uint8)']-9-[0, 13, 81, 153, 175, 204, 275, 276, 106]
+4: ['4ba4c16b', 'guess(uint8)']-7-[0, 13, 81, 153, 175, 204, 271]
+5: ['4ba4c16b', 'guess(uint8)']-5-[0, 13, 81, 153, 171]
+6: ['b2fa1c9e', 'isComplete()']-7-[0, 13, 65, 108, 119, 279, 127]
+7: ['b2fa1c9e', 'isComplete()']-5-[0, 13, 65, 108, 115]
+8: ['b2fa1c9e', 'isComplete()']-4-[0, 13, 65, 76]
+
+Valided paths:
+2: ['4ba4c16b', 'guess(uint8)']-7-[0, 13, 81, 153, 175, 276, 106]
+3: ['4ba4c16b', 'guess(uint8)']-9-[0, 13, 81, 153, 175, 204, 275, 276, 106]
+6: ['b2fa1c9e', 'isComplete()']-7-[0, 13, 65, 108, 119, 279, 127]
+
+===================================================
+This Audit Cost: 0.16762590408325195
+{'evm_code_coverage': 100.0, 'time_cost': 0.16762590408325195, 'bytecode_length': 313.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

@@ -1,0 +1,11 @@
+{
+   "evm_code_coverage": 90.1,
+   "time_cost": 90.04348063468933,
+   "bytecode_length": 12346.0,
+   "vulnerabilities": {
+      "unchecked_return_value": false,
+      "reentrancy": true,
+      "Crosschain_Function_Call": false,
+      "Unprotected_Data_Injection": false
+   }
+}

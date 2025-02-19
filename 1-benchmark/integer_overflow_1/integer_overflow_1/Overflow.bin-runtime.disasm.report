@@ -1,0 +1,12 @@
+
+All paths:
+1: ['1003e2d2', 'add(uint256)']-6-[0, 61, 71, 117, 135, 91]
+2: ['1003e2d2', 'add(uint256)']-3-[0, 61, 67]
+3: ['1003e2d2', 'add(uint256)']-2-[0, 56]
+
+Valided paths:
+1: ['1003e2d2', 'add(uint256)']-6-[0, 61, 71, 117, 135, 91]
+
+===================================================
+This Audit Cost: 0.04209613800048828
+{'evm_code_coverage': 100.0, 'time_cost': 0.04209613800048828, 'bytecode_length': 141.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

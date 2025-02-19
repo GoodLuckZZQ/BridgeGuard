@@ -1,0 +1,20 @@
+
+All paths:
+1: []-3-[0, 34, 41]
+2: []-3-[0, 34, 40]
+3: ['fe110116', 'transferToPool()']-11-[0, 13, 46, 58, 89, 284, 307, 411, 431, 496, 67]
+4: ['fe110116', 'transferToPool()']-9-[0, 13, 46, 58, 89, 284, 307, 411, 422]
+5: ['fe110116', 'transferToPool()']-8-[0, 13, 46, 58, 89, 284, 307, 407]
+6: ['fe110116', 'transferToPool()']-9-[0, 13, 46, 58, 89, 284, 299, 496, 67]
+7: ['fe110116', 'transferToPool()']-6-[0, 13, 46, 58, 89, 175]
+8: ['fe110116', 'transferToPool()']-4-[0, 13, 46, 54]
+9: ['fe110116', 'transferToPool()']-4-[0, 13, 30, 41]
+
+Valided paths:
+2: []-3-[0, 34, 40]
+3: ['fe110116', 'transferToPool()']-11-[0, 13, 46, 58, 89, 284, 307, 411, 431, 496, 67]
+6: ['fe110116', 'transferToPool()']-9-[0, 13, 46, 58, 89, 284, 299, 496, 67]
+
+===================================================
+This Audit Cost: 0.1730637550354004
+{'evm_code_coverage': 100.0, 'time_cost': 0.1730637550354004, 'bytecode_length': 500.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

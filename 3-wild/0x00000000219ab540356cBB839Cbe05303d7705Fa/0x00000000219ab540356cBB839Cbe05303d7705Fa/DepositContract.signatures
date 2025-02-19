@@ -1,0 +1,4 @@
+22895118: deposit(bytes,bytes,bytes,bytes32)
+621fd130: get_deposit_count()
+c5f2892f: get_deposit_root()
+01ffc9a7: supportsInterface(bytes4)

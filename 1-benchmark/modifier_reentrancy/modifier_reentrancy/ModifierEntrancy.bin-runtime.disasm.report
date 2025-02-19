@@ -1,0 +1,20 @@
+
+All paths:
+1: []-2-[0, 76]
+2: ['ca5d0880', 'airDrop()']-13-[0, 13, 81, 93, 191, 268, 368, 388, 410, 511, 548, 609, 102]
+3: ['ca5d0880', 'airDrop()']-12-[0, 13, 81, 93, 191, 268, 368, 388, 410, 511, 548, 605]
+4: ['ca5d0880', 'airDrop()']-8-[0, 13, 81, 93, 191, 268, 368, 379]
+5: ['ca5d0880', 'airDrop()']-7-[0, 13, 81, 93, 191, 268, 364]
+6: ['ca5d0880', 'airDrop()']-6-[0, 13, 81, 93, 191, 264]
+7: ['ca5d0880', 'airDrop()']-4-[0, 13, 81, 89]
+8: ['eedc966a', 'tokenBalance(address)']-7-[0, 13, 65, 104, 116, 688, 169]
+9: ['eedc966a', 'tokenBalance(address)']-5-[0, 13, 65, 104, 112]
+10: ['eedc966a', 'tokenBalance(address)']-4-[0, 13, 65, 76]
+
+Valided paths:
+2: ['ca5d0880', 'airDrop()']-13-[0, 13, 81, 93, 191, 268, 368, 388, 410, 511, 548, 609, 102]
+8: ['eedc966a', 'tokenBalance(address)']-7-[0, 13, 65, 104, 116, 688, 169]
+
+===================================================
+This Audit Cost: 0.22563409805297852
+{'evm_code_coverage': 93.8, 'time_cost': 0.22563409805297852, 'bytecode_length': 713.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

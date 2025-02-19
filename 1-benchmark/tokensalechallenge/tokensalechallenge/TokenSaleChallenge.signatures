@@ -1,0 +1,4 @@
+70a08231: balanceOf(address)
+d96a094a: buy(uint256)
+b2fa1c9e: isComplete()
+e4849b32: sell(uint256)

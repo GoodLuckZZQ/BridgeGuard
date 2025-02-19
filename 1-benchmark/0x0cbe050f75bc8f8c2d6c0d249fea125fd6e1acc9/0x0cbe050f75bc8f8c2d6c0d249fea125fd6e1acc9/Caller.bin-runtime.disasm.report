@@ -1,0 +1,16 @@
+
+All paths:
+1: ['8da5cb5b', 'owner()']-5-[0, 70, 78, 206, 86]
+2: ['8da5cb5b', 'owner()']-3-[0, 70, 77]
+3: ['907c0ff9', 'callAddress(address)']-8-[0, 57, 152, 160, 244, 337, 389, 204]
+4: ['907c0ff9', 'callAddress(address)']-6-[0, 57, 152, 160, 244, 332]
+5: ['907c0ff9', 'callAddress(address)']-4-[0, 57, 152, 159]
+6: ['907c0ff9', 'callAddress(address)']-3-[0, 57, 68]
+
+Valided paths:
+1: ['8da5cb5b', 'owner()']-5-[0, 70, 78, 206, 86]
+3: ['907c0ff9', 'callAddress(address)']-8-[0, 57, 152, 160, 244, 337, 389, 204]
+
+===================================================
+This Audit Cost: 0.10048580169677734
+{'evm_code_coverage': 100.0, 'time_cost': 0.10048580169677734, 'bytecode_length': 393.0, 'vulnerabilities': {'unchecked_return_value': True, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

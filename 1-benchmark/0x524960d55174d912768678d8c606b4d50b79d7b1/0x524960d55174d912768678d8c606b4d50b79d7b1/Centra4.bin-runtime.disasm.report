@@ -1,0 +1,14 @@
+
+All paths:
+1: ['8a4068dd', 'transfer()']-7-[0, 62, 73, 107, 551, 556, 81]
+2: ['8a4068dd', 'transfer()']-7-[0, 62, 73, 107, 543, 556, 81]
+3: ['8a4068dd', 'transfer()']-3-[0, 62, 69]
+4: ['8a4068dd', 'transfer()']-2-[0, 57]
+
+Valided paths:
+1: ['8a4068dd', 'transfer()']-7-[0, 62, 73, 107, 551, 556, 81]
+2: ['8a4068dd', 'transfer()']-7-[0, 62, 73, 107, 543, 556, 81]
+
+===================================================
+This Audit Cost: 0.06907105445861816
+{'evm_code_coverage': 100.0, 'time_cost': 0.06907105445861816, 'bytecode_length': 564.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

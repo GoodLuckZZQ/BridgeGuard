@@ -1,0 +1,25 @@
+
+All paths:
+1: []-2-[0, 97]
+2: ['00362a95', 'donate(address)']-5-[0, 13, 99, 334, 143]
+3: ['27e235e3', 'balances(address)']-7-[0, 13, 64, 145, 156, 413, 200]
+4: ['27e235e3', 'balances(address)']-5-[0, 13, 64, 145, 152]
+5: ['2e1a7d4d', 'withdraw(uint256)']-9-[0, 13, 64, 75, 222, 233, 437, 634, 255]
+6: ['2e1a7d4d', 'withdraw(uint256)']-10-[0, 13, 64, 75, 222, 233, 437, 509, 634, 255]
+7: ['2e1a7d4d', 'withdraw(uint256)']-6-[0, 13, 64, 75, 222, 229]
+8: ['70a08231', 'balanceOf(address)']-9-[0, 13, 64, 75, 86, 257, 268, 637, 312]
+9: ['70a08231', 'balanceOf(address)']-7-[0, 13, 64, 75, 86, 257, 264]
+10: ['70a08231', 'balanceOf(address)']-6-[0, 13, 64, 75, 86, 97]
+
+Valided paths:
+1: []-2-[0, 97]
+2: ['00362a95', 'donate(address)']-5-[0, 13, 99, 334, 143]
+3: ['27e235e3', 'balances(address)']-7-[0, 13, 64, 145, 156, 413, 200]
+5: ['2e1a7d4d', 'withdraw(uint256)']-9-[0, 13, 64, 75, 222, 233, 437, 634, 255]
+6: ['2e1a7d4d', 'withdraw(uint256)']-10-[0, 13, 64, 75, 222, 233, 437, 509, 634, 255]
+8: ['70a08231', 'balanceOf(address)']-9-[0, 13, 64, 75, 86, 257, 268, 637, 312]
+10: ['70a08231', 'balanceOf(address)']-6-[0, 13, 64, 75, 86, 97]
+
+===================================================
+This Audit Cost: 0.2222588062286377
+{'evm_code_coverage': 100.0, 'time_cost': 0.2222588062286377, 'bytecode_length': 710.0, 'vulnerabilities': {'unchecked_return_value': True, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

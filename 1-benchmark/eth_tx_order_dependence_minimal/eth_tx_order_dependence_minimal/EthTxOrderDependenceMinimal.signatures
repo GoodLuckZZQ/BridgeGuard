@@ -1,0 +1,5 @@
+ae169a50: claimReward(uint256)
+e834a834: claimed()
+8da5cb5b: owner()
+228cb733: reward()
+3eb6a67e: setReward()

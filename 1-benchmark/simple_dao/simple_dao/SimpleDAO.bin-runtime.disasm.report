@@ -1,0 +1,18 @@
+
+All paths:
+1: ['00362a95', 'donate(address)']-5-[0, 92, 243, 304, 114]
+2: ['2e1a7d4d', 'withdraw(uint256)']-8-[0, 50, 116, 122, 307, 479, 480, 143]
+3: ['2e1a7d4d', 'withdraw(uint256)']-9-[0, 50, 116, 122, 307, 366, 479, 480, 143]
+4: ['59f1286d', 'queryCredit(address)']-8-[0, 50, 61, 145, 151, 484, 541, 172]
+5: ['d5d44d80', 'credit(address)']-8-[0, 50, 61, 72, 194, 200, 546, 221]
+
+Valided paths:
+1: ['00362a95', 'donate(address)']-5-[0, 92, 243, 304, 114]
+2: ['2e1a7d4d', 'withdraw(uint256)']-8-[0, 50, 116, 122, 307, 479, 480, 143]
+3: ['2e1a7d4d', 'withdraw(uint256)']-9-[0, 50, 116, 122, 307, 366, 479, 480, 143]
+4: ['59f1286d', 'queryCredit(address)']-8-[0, 50, 61, 145, 151, 484, 541, 172]
+5: ['d5d44d80', 'credit(address)']-8-[0, 50, 61, 72, 194, 200, 546, 221]
+
+===================================================
+This Audit Cost: 0.17400383949279785
+{'evm_code_coverage': 100.0, 'time_cost': 0.17400383949279785, 'bytecode_length': 573.0, 'vulnerabilities': {'unchecked_return_value': True, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

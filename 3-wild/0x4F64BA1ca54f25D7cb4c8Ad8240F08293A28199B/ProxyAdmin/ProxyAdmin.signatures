@@ -1,0 +1,8 @@
+7eff275e: changeProxyAdmin(address,address)
+f3b7dead: getProxyAdmin(address)
+204e1c7a: getProxyImplementation(address)
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+f2fde38b: transferOwnership(address)
+99a88ec4: upgrade(address,address)
+9623609d: upgradeAndCall(address,address,bytes)

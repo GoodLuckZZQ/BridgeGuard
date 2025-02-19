@@ -1,0 +1,8 @@
+d13b1a55: nifty()
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+e094d4d8: smartTokensLabs()
+f2fde38b: transferOwnership(address)
+753522b0: updateRecievers(address,address)
+bd5dec98: withdraw(address[])
+e086e5ec: withdrawETH()

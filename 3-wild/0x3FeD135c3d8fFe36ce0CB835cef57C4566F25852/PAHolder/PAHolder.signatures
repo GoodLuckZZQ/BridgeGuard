@@ -1,0 +1,23 @@
+Function signatures:
+06394c9b: changeOperator(address)
+e1ae8f05: changePriceInfo(uint256,uint256,address)
+aad2b723: changeSigner(address)
+b14f2a39: changeTreasury(address)
+a8f6c913: erc20Contract()
+4adccde5: erc20Price()
+ff186b2e: ethPrice()
+cc7b0bd8: forceReturnAllTokens(address,uint256[])
+144cb452: forceReturnToken(address,uint256)
+66836b7c: getHeldTokens(address)
+330227bf: getPriceInfo()
+f10c974f: heldBalance(address)
+1c4b41bf: isHeld(address,uint256)
+906ea24b: returnToken(uint256,bytes,bool,uint256)
+16c38b3c: setPaused(bool)
+22f0e36f: signerNonce(address)
+55a373d6: tokenContract()
+1f10caa3: transferToHolder(address,uint256,bytes,bool,uint256)
+c5f956af: treasuryAddress()
+
+Event signatures:
+bb80fa3c17d62b43b2e024f76d7876cd98f6c7584e0e5d540325f5d369163803: HolderAction(uint256,bool)

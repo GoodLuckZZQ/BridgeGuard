@@ -1,0 +1,8 @@
+9254c7d4: flush721ToNewWallet(uint256,bytes,bool,address)
+f161e7d4: flushToNewWallet(address)
+933a9ce8: getProxy()
+150b7a02: onERC721Received(address,address,uint256,bytes)
+6c261975: setNewWallet(address,address)
+3914a04f: setProxy()
+dbba0f01: transfer(address,uint256,address)
+e34ed672: transfer(address,uint256,bytes,bool,address)

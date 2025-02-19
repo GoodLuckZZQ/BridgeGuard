@@ -1,0 +1,21 @@
+Function signatures:
+ce6e8178: contractToContract(address)
+34e24853: encode(address)
+14166dcc: finalizeInterPortalTransferDest(address,uint256,string,address)
+e69f98ea: finalizeInterPortalTransferOrigin(address)
+00ab1c1c: getCommitment(address,address,address,uint256)
+7aae5260: getTransferOut(address)
+80730f53: hashThis(bytes)
+edf6aab2: initPortal(bytes32,bytes32,address,address,address,uint256)
+8da5cb5b: owner()
+5d89f54d: portalFromOtherChain(bytes32,bytes32,uint256,address,address,address,uint256)
+715018a6: renounceOwnership()
+ffbe04f4: setPairContract(address,address)
+f2fde38b: transferOwnership(address)
+24600fc3: withdrawFunds()
+
+Event signatures:
+48149fa6d974288a2f7432e1aba13708801f20e31e9ea9704bbacd88df1b33f3: DestinationPortalOpened(address,address,uint256)
+eccb2b8fb1a9f42b0a8be9d10ad01d3fb55130397629c6cf59753986942aaf5d: DestinationTransferFinalized(address)
+018d56829996f7f5006e841049c0ffc3403ac1e303ba06eae2651e15426cec28: NewPortal(address,uint256,address)
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

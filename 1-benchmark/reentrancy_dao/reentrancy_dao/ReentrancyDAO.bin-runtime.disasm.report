@@ -1,0 +1,18 @@
+
+All paths:
+1: []-2-[0, 76]
+2: ['853828b6', 'withdrawAll()']-7-[0, 13, 81, 92, 112, 336, 100]
+3: ['853828b6', 'withdrawAll()']-9-[0, 13, 81, 92, 112, 190, 267, 336, 100]
+4: ['853828b6', 'withdrawAll()']-7-[0, 13, 81, 92, 112, 190, 263]
+5: ['853828b6', 'withdrawAll()']-4-[0, 13, 81, 88]
+6: ['d0e30db0', 'deposit()']-6-[0, 13, 65, 102, 340, 110]
+7: ['d0e30db0', 'deposit()']-4-[0, 13, 65, 76]
+
+Valided paths:
+2: ['853828b6', 'withdrawAll()']-7-[0, 13, 81, 92, 112, 336, 100]
+3: ['853828b6', 'withdrawAll()']-9-[0, 13, 81, 92, 112, 190, 267, 336, 100]
+6: ['d0e30db0', 'deposit()']-6-[0, 13, 65, 102, 340, 110]
+
+===================================================
+This Audit Cost: 0.15419220924377441
+{'evm_code_coverage': 100.0, 'time_cost': 0.15419220924377441, 'bytecode_length': 435.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

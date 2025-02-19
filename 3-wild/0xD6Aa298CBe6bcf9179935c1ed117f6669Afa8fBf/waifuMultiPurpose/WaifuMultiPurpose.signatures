@@ -1,0 +1,14 @@
+Function signatures:
+0f5daeaf: batchTransferERC721(address,(address,uint256)[])
+086f8214: disperseEther((address,uint256)[])
+8960ab9c: disperseEther(address[])
+bda9ec77: getERC721Balance(address,address[])
+a0901e51: getEthBalances(address[])
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+d7981834: rescueERC721(address,uint256)
+ce31a06b: rescueEth()
+f2fde38b: transferOwnership(address)
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

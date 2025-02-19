@@ -1,0 +1,11 @@
+Function signatures:
+59635f6f: c(address,bytes)
+d59fe5f4: cKill(address,bytes)
+df8de3e7: claimTokens(address)
+c40493dc: d(address,bytes)
+725159a6: dKill(address,bytes)
+c2580804: f(uint256[],bytes,bytes)
+b4f40c61: k()
+81aafabb: map(address,bytes)
+b1ae2ed1: t(uint256,bytes,bytes)
+f19c74b0: t_(uint256[],bytes,bytes)

@@ -1,0 +1,5 @@
+52efea6e: clear()
+263e5d3c: clearDOS()
+aefee53e: getLengthArray()
+6a6f7257: getRealLengthArray()
+529f6f2d: insertNnumbers(uint256,uint256)

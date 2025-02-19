@@ -1,0 +1,21 @@
+Function signatures:
+e9398715: ERC20Address(uint256)
+57087812: addERC20Address(address)
+f59d83bf: addPart((address,uint256))
+54c46880: init(address,(address,uint256)[])
+24d7806c: isAdmin(address)
+8faaefc8: multiSigContract()
+8da5cb5b: owner()
+c9eb4662: parts(uint256)
+95a4b24e: removeERC20Address(address)
+bd9b56c3: removePart(uint256)
+715018a6: renounceOwnership()
+ad190f86: royaltiesDivider()
+5bc63820: setAdminAddress(address,bool)
+34c6d8b5: setMultiSigContract(address)
+f2fde38b: transferOwnership(address)
+3ccfd60b: withdraw()
+2ed6d5e8: withdrawERC20()
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

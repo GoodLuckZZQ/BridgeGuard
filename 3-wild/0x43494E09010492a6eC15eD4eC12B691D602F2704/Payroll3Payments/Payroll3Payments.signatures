@@ -1,0 +1,21 @@
+Function signatures:
+70480275: addAdmin(address)
+429b62e5: admins(address)
+1036348f: calculateCost(uint256[])
+4980f731: disburse(address[],uint256[])
+ddca3f43: fee()
+8da5cb5b: owner()
+ae90b213: payee()
+1785f53c: removeAdmin(address)
+715018a6: renounceOwnership()
+69fe0e2d: setFee(uint256)
+410459ad: setPayee(address)
+f2fde38b: transferOwnership(address)
+3ccfd60b: withdraw()
+89476069: withdrawToken(address)
+
+Event signatures:
+5724630c7039b7451802c963e5285779ee0776995655e2fb2cc6215d909493d9: Disbursed(address,uint256)
+cb7d7dcd93432744a6fa06aebdcf7e63f3bd0c328c5c9824bb98c1985d7acfe5: DisbursementInitiated(address,address[],uint256[])
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)
+88a5966d370b9919b20f3e2c13ff65706f196a4e32cc2c12bf57088f88525874: Received(address,uint256)

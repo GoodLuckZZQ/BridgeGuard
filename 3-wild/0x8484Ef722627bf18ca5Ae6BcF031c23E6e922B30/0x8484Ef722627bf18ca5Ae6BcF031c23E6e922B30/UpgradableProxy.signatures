@@ -1,0 +1,6 @@
+5c60da1b: implementation()
+025313a2: proxyOwner()
+4555d5c9: proxyType()
+f1739cae: transferProxyOwnership(address)
+d88ca2c8: updateAndCall(address,bytes)
+025b22bc: updateImplementation(address)

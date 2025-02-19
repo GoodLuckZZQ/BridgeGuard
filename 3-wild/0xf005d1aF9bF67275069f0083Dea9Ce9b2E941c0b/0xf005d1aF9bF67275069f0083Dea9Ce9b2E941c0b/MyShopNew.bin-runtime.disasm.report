@@ -1,0 +1,17 @@
+
+All paths:
+1: []-2-[0, 38]
+2: ['13bea460', 'payForItem()']-8-[0, 12, 43, 71, 79, 214, 77, 49]
+3: ['13bea460', 'payForItem()']-6-[0, 12, 43, 71, 79, 205]
+4: ['9bd7fd73', 'wAll()']-8-[0, 12, 28, 51, 62, 79, 214, 69]
+5: ['9bd7fd73', 'wAll()']-7-[0, 12, 28, 51, 62, 79, 205]
+6: ['9bd7fd73', 'wAll()']-5-[0, 12, 28, 51, 58]
+7: ['9bd7fd73', 'wAll()']-4-[0, 12, 28, 38]
+
+Valided paths:
+2: ['13bea460', 'payForItem()']-8-[0, 12, 43, 71, 79, 214, 77, 49]
+4: ['9bd7fd73', 'wAll()']-8-[0, 12, 28, 51, 62, 79, 214, 69]
+
+===================================================
+This Audit Cost: 0.21463966369628906
+{'evm_code_coverage': 100.0, 'time_cost': 0.21463966369628906, 'bytecode_length': 220.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

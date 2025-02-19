@@ -1,0 +1,21 @@
+Function signatures:
+92fc453a: deployGateway()
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+f2fde38b: transferOwnership(address)
+3ccfd60b: withdraw()
+51cff8d9: withdraw(address)
+f3fef3a3: withdraw(address,uint256)
+2e1a7d4d: withdraw(uint256)
+72b0d90c: withdrawTo(address)
+6dce4ab0: withdrawTo(address,address)
+c3b35a7e: withdrawTo(address,address,uint256)
+205c2878: withdrawTo(address,uint256)
+
+Error signatures:
+30cd7471: NotOwner()
+90b8ec18: TransferFailed()
+
+Event signatures:
+4b209f3d620ba8f4e206ec57dd17cebe32624f42eb77c06bcfd195be78b6c2c2: GatewayDeployed(address,address)
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

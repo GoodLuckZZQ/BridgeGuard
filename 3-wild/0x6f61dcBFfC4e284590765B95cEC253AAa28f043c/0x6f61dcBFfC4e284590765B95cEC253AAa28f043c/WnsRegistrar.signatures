@@ -1,0 +1,8 @@
+d3c08b13: computeNamehash(string)
+ccd7fb00: flipActiveState()
+22f3e2d4: isActive()
+e145106b: migrateExtension(string,string,bytes)
+97aba7f9: recoverSigner(bytes32,bytes)
+a91ee0dc: setRegistry(address)
+f3fef3a3: withdraw(address,uint256)
+a5e46679: wnsRegister((string,string,address,uint256,uint256,address[],uint256[])[],bytes[])

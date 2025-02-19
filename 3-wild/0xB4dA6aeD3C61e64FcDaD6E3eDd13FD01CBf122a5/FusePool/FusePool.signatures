@@ -1,0 +1,21 @@
+Function signatures:
+885e6d84: decreaseShare(address)
+d0e30db0: deposit()
+5319504a: distributeDividend(address)
+e2d2e219: dividendsPerShare()
+11ce023d: dividendsPerShareAccuracyFactor()
+a5978c66: getPendingDividend(address)
+39d4d686: increaseShare(address,uint256)
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+ce7c2ac2: shares(address)
+efca2eed: totalDistributed()
+997664d7: totalDividends()
+77dd2037: totalRewardsToUser(address)
+3a98ef39: totalShares()
+f2fde38b: transferOwnership(address)
+690d8320: withdrawETH(address)
+3aeac4e1: withdrawToken(address,address)
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

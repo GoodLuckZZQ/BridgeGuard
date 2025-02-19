@@ -1,0 +1,11 @@
+Function signatures:
+f851a440: admin()
+8f283970: changeAdmin(address)
+5c60da1b: implementation()
+3659cfe6: upgradeTo(address)
+4f1ef286: upgradeToAndCall(address,bytes)
+
+Event signatures:
+7e644d79422f17c01e4894b5f4f588d331ebfa28653d42ae832dc59e38c9798f: AdminChanged(address,address)
+1cf3b03a6cf19fa2baba4df148e9dcabedea7f8a5c07840e207e5c089be95d3e: BeaconUpgraded(address)
+bc7cd75a20ee27fd9adebab32041f755214dbc6bffa90cc0225b39da2e5c2d3b: Upgraded(address)

@@ -1,0 +1,9 @@
+Function signatures:
+0719c278: configure((address,uint256)[])
+e4fc6b6d: distribute()
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+f2fde38b: transferOwnership(address)
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

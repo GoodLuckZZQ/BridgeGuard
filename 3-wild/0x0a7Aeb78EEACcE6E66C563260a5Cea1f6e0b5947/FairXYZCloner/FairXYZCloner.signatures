@@ -1,0 +1,5 @@
+6dc00dc0: _clone(uint256,uint256,string,string,bool,uint256,string[],uint96)
+7f3d5a34: allClones(address,uint256)
+5c60da1b: implementation()
+aa8a6754: interfaceAddress()
+0eb84efd: returnClones(address)

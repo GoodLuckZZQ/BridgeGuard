@@ -1,0 +1,17 @@
+Function signatures:
+c7f6d7b5: ACTION_CLAIM_REWARD()
+b8ef9d98: ACTION_SUPPLY_ASSET()
+68975f1c: ACTION_SUPPLY_ETH()
+1aa7c53e: ACTION_TRANSFER_ASSET()
+9860d6e6: ACTION_WITHDRAW_ASSET()
+a13d27a6: ACTION_WITHDRAW_ETH()
+f851a440: admin()
+b8f88786: invoke(uint256[],bytes[])
+fe7746af: sweepEth(address)
+258836fe: sweepToken(address,address)
+3fc8cef3: weth()
+
+Error signatures:
+dcf35db0: FailedToSendEther()
+a9cb9e0d: InvalidArgument()
+82b42900: Unauthorized()

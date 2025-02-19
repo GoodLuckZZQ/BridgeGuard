@@ -1,0 +1,14 @@
+Function signatures:
+2530b145: MULTISIG()
+48686626: claim((address,address,uint256,bytes32[])[])
+0c9cbf0e: claimed(address,address)
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+0700037d: rewards(address)
+f2fde38b: transferOwnership(address)
+96e859d8: updateRewardsMetadata((address,bytes32,bytes32)[])
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)
+7a84a08b02c91f3c62d572853f966fc799bbd121e8ad7833a4494ab8dcfcb404: RewardClaimed(address,address,uint256,uint256)
+9ca93988e299d8264919a188c320f8d8efa97e1976a234f3c6c42315fc10b4e0: RewardMetadataUpdated(address,bytes32,bytes32,uint256)

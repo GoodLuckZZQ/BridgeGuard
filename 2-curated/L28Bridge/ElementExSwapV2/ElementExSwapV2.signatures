@@ -1,0 +1,21 @@
+Function signatures:
+a8e5e4aa: approveERC20(address,address,uint256)
+5d578816: batchBuyWithERC20s((address,uint256)[],bytes,address[])
+4c674c2d: batchBuyWithETH(bytes)
+bc197c81: onERC1155BatchReceived(address,address,uint256[],uint256[],bytes)
+f23a6e61: onERC1155Received(address,address,uint256,uint256,bytes)
+150b7a02: onERC721Received(address,address,uint256,bytes)
+f0b9e5ba: onERC721Received(address,uint256,bytes)
+8da5cb5b: owner()
+c12e5d54: registerFeature((address,string,(bytes4,string)[]))
+d750e2a5: registerFeatures((address,string,(bytes4,string)[])[])
+5d799f87: rescueERC20(address,address)
+26e2dca2: rescueERC721(address,uint256[],address)
+04824e70: rescueETH(address)
+01ffc9a7: supportsInterface(bytes4)
+f2fde38b: transferOwnership(address)
+ab65a1f7: unregister(bytes4[])
+
+Event signatures:
+f05686f2e12debc00665cd81463f2ae8ae5b4f167ea8dead964a3235a7d2a767: FeatureFunctionUpdated(bytes4,address,address)
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

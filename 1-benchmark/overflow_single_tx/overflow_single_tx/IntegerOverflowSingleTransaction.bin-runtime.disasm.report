@@ -1,0 +1,31 @@
+
+All paths:
+1: []-2-[0, 131]
+2: ['0642f32a', 'overflowlocalonly(uint256)']-6-[0, 13, 136, 148, 449, 179]
+3: ['0642f32a', 'overflowlocalonly(uint256)']-4-[0, 13, 136, 144]
+4: ['06661abd', 'count()']-7-[0, 13, 65, 181, 193, 462, 202]
+5: ['06661abd', 'count()']-5-[0, 13, 65, 181, 189]
+6: ['4c4f50f3', 'underflowtostate(uint256)']-8-[0, 13, 65, 76, 224, 236, 468, 267]
+7: ['4c4f50f3', 'underflowtostate(uint256)']-6-[0, 13, 65, 76, 224, 232]
+8: ['5c68bc06', 'overflowmultostate(uint256)']-9-[0, 13, 65, 76, 87, 269, 281, 486, 312]
+9: ['5c68bc06', 'overflowmultostate(uint256)']-7-[0, 13, 65, 76, 87, 269, 277]
+10: ['69fb0f5d', 'underflowlocalonly(uint256)']-10-[0, 13, 65, 76, 87, 98, 314, 326, 504, 357]
+11: ['69fb0f5d', 'underflowlocalonly(uint256)']-8-[0, 13, 65, 76, 87, 98, 314, 322]
+12: ['def92d68', 'overflowaddtostate(uint256)']-11-[0, 13, 65, 76, 87, 98, 109, 359, 371, 517, 402]
+13: ['def92d68', 'overflowaddtostate(uint256)']-9-[0, 13, 65, 76, 87, 98, 109, 359, 367]
+14: ['e6dca5ea', 'overflowmulocalonly(uint256)']-12-[0, 13, 65, 76, 87, 98, 109, 120, 404, 416, 535, 447]
+15: ['e6dca5ea', 'overflowmulocalonly(uint256)']-10-[0, 13, 65, 76, 87, 98, 109, 120, 404, 412]
+16: ['e6dca5ea', 'overflowmulocalonly(uint256)']-9-[0, 13, 65, 76, 87, 98, 109, 120, 131]
+
+Valided paths:
+2: ['0642f32a', 'overflowlocalonly(uint256)']-6-[0, 13, 136, 148, 449, 179]
+4: ['06661abd', 'count()']-7-[0, 13, 65, 181, 193, 462, 202]
+6: ['4c4f50f3', 'underflowtostate(uint256)']-8-[0, 13, 65, 76, 224, 236, 468, 267]
+8: ['5c68bc06', 'overflowmultostate(uint256)']-9-[0, 13, 65, 76, 87, 269, 281, 486, 312]
+10: ['69fb0f5d', 'underflowlocalonly(uint256)']-10-[0, 13, 65, 76, 87, 98, 314, 326, 504, 357]
+12: ['def92d68', 'overflowaddtostate(uint256)']-11-[0, 13, 65, 76, 87, 98, 109, 359, 371, 517, 402]
+14: ['e6dca5ea', 'overflowmulocalonly(uint256)']-12-[0, 13, 65, 76, 87, 98, 109, 120, 404, 416, 535, 447]
+
+===================================================
+This Audit Cost: 0.28495287895202637
+{'evm_code_coverage': 100.0, 'time_cost': 0.28495287895202637, 'bytecode_length': 549.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

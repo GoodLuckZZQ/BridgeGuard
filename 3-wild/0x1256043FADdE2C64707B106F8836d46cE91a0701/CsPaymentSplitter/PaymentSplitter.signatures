@@ -1,0 +1,18 @@
+Function signatures:
+8b83209b: payee(uint256)
+a3f8eace: releasable(address)
+c45ac050: releasable(address,address)
+19165587: release(address)
+48b75044: release(address,address)
+9852595c: released(address)
+406072a9: released(address,address)
+ce7c2ac2: shares(address)
+e33b7de3: totalReleased()
+d79779b2: totalReleased(address)
+3a98ef39: totalShares()
+
+Event signatures:
+3be5b7a71e84ed12875d241991c70855ac5817d847039e17a9d895c1ceb0f18a: ERC20PaymentReleased(address,address,uint256)
+40c340f65e17194d14ddddb073d3c9f888e3cb52b5aae0c6c7706b4fbc905fac: PayeeAdded(address,uint256)
+6ef95f06320e7a25a04a175ca677b7052bdd97131872c2192525a629f51be770: PaymentReceived(address,uint256)
+df20fd1e76bc69d672e4814fafb2c449bba3a5369d8359adf9e05e6fde87b056: PaymentReleased(address,uint256)

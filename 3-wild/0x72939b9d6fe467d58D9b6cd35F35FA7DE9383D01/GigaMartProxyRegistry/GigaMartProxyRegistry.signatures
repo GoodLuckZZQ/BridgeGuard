@@ -1,0 +1,28 @@
+Function signatures:
+e71a02e1: DELAY_PERIOD()
+536fff6c: authorizedCallers(address)
+97204d8e: delegateProxyImplementation()
+38b6e407: endGrantAuthentication(address)
+838244f1: grantInitialAuthentication(address[])
+f4a86900: initialCallersSet()
+06fdde03: name()
+8da5cb5b: owner()
+d45746f2: pendingCallers(address)
+c4552791: proxies(address)
+ddd81f82: registerProxy()
+715018a6: renounceOwnership()
+53376d1f: revokeAuthentication(address)
+d4e8e063: startGrantAuthentication(address)
+f2fde38b: transferOwnership(address)
+b47e4f81: userProxyConfig(address)
+
+Error signatures:
+66837b78: AddressHasntClearedTimelock()
+a69c8f64: AddressHasntStartedAuth()
+6027d27e: AlreadyAuthorized()
+6a912bac: AlreadyPendingAuthentication()
+fde4523d: InitialCallerIsAlreadySet()
+f17f2303: ProxyAlreadyRegistered()
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

@@ -1,0 +1,4 @@
+70a08231: balanceOf(address)
+27e235e3: balances(address)
+00362a95: donate(address)
+2e1a7d4d: withdraw(uint256)

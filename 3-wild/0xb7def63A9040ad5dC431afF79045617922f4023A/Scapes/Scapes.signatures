@@ -1,0 +1,32 @@
+Function signatures:
+79ba5097: acceptOwnership()
+1f931c1c: diamondCut((address,uint8,bytes4[])[],address,bytes)
+cdffacc6: facetAddress(bytes4)
+52ef6b2c: facetAddresses()
+adfca15e: facetFunctionSelectors(address)
+7a0ed627: facets()
+2c408059: getFallbackAddress()
+8ab5150a: nomineeOwner()
+8da5cb5b: owner()
+91423765: setFallbackAddress(address)
+01ffc9a7: supportsInterface(bytes4)
+f2fde38b: transferOwnership(address)
+
+Error signatures:
+26df4ccd: DiamondWritable__InvalidInitializationParameters()
+eacd2424: DiamondWritable__RemoveTargetNotZeroAddress()
+617557e6: DiamondWritable__ReplaceTargetIsIdentical()
+92474ee2: DiamondWritable__SelectorAlreadyAdded()
+e9835731: DiamondWritable__SelectorIsImmutable()
+6fc4b52e: DiamondWritable__SelectorNotFound()
+eb6c3aeb: DiamondWritable__SelectorNotSpecified()
+f77172ac: DiamondWritable__TargetHasNoCode()
+f31e8ca9: ERC165Storage__InvalidInterfaceId()
+2f7a8ee1: Ownable__NotOwner()
+d0b49847: Ownable__NotTransitiveOwner()
+87c9fc34: Proxy__ImplementationIsNotContract()
+efd1052d: SafeOwnable__NotNomineeOwner()
+
+Event signatures:
+8faa70878671ccd212d20771b795c50af8fd3ff6cf27f4bde57e5d4de0aeb673: DiamondCut((address,uint8,bytes4[])[],address,bytes)
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

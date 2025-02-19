@@ -1,0 +1,6 @@
+cfd8a175: betPrice()
+382cf0a6: gamesPlayed(uint256)
+41c0e1b5: kill()
+c5339132: lastPlayed()
+9c675eaa: ownerAddr()
+6898f82b: play(uint256)

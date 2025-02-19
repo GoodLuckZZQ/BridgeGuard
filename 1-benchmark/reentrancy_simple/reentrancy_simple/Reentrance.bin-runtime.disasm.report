@@ -1,0 +1,18 @@
+
+All paths:
+1: ['5fd8c710', 'withdrawBalance()']-7-[0, 84, 95, 192, 313, 382, 103]
+2: ['5fd8c710', 'withdrawBalance()']-5-[0, 84, 95, 192, 309]
+3: ['5fd8c710', 'withdrawBalance()']-3-[0, 84, 91]
+4: ['c0e317fb', 'addToBalance()']-6-[0, 57, 105, 384, 461, 113]
+5: ['f8b2cb4f', 'getBalance(address)']-8-[0, 57, 68, 115, 126, 463, 531, 170]
+6: ['f8b2cb4f', 'getBalance(address)']-5-[0, 57, 68, 115, 122]
+7: ['f8b2cb4f', 'getBalance(address)']-4-[0, 57, 68, 79]
+
+Valided paths:
+1: ['5fd8c710', 'withdrawBalance()']-7-[0, 84, 95, 192, 313, 382, 103]
+4: ['c0e317fb', 'addToBalance()']-6-[0, 57, 105, 384, 461, 113]
+5: ['f8b2cb4f', 'getBalance(address)']-8-[0, 57, 68, 115, 126, 463, 531, 170]
+
+===================================================
+This Audit Cost: 0.1269388198852539
+{'evm_code_coverage': 100.0, 'time_cost': 0.1269388198852539, 'bytecode_length': 537.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

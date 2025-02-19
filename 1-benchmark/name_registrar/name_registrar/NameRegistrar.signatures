@@ -1,0 +1,4 @@
+d22057a9: register(bytes32,address)
+e59a0407: registeredNameRecord(address)
+5c23bdf5: resolve(bytes32)
+6a5e2650: unlocked()

@@ -1,0 +1,31 @@
+Function signatures:
+8620410b: buyPrice()
+ddca3f43: fee()
+41a723a4: junkNFTs((address,uint256[])[],(address,uint256[],uint256[])[],string)
+d9e6b74e: junkyard()
+65537de3: maxTransfersPerTx()
+8da5cb5b: owner()
+8456cb59: pause()
+5c975abb: paused()
+f8159e93: referralCodeByUser(address)
+3999b353: referralSalesByUser(address)
+715018a6: renounceOwnership()
+63ae8d6c: setBuyPrice(uint256)
+69fe0e2d: setFee(uint256)
+bfbde3cf: setJunkyard(address)
+cedc2ce1: setMaxTransfers(uint256)
+86ec3e3d: setReferralCode(string)
+f2fde38b: transferOwnership(address)
+3f4ba83a: unpause()
+5fd8c710: withdrawBalance()
+
+Error signatures:
+bfbcea2a: ERC1155JunkGroupMismatchedLengths()
+52338c80: InvalidFeeAmount()
+79919c05: JunkyardAddressNotSet()
+eb1625f5: MaxTransfersPerTxReached()
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)
+62e78cea01bee320cd4e420270b5ea74000d11b0c9f74754ebdbfc544b05a258: Paused(address)
+5db9ee0a495bf2e6ff9c91a7834c1ba4fdd244a5e8aa4e537bd38aeae4b073aa: Unpaused(address)

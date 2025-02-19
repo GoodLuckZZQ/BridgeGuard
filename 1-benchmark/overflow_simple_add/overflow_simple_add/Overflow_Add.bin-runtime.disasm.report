@@ -1,0 +1,16 @@
+
+All paths:
+1: []-2-[0, 73]
+2: ['1003e2d2', 'add(uint256)']-6-[0, 12, 78, 89, 160, 118]
+3: ['1003e2d2', 'add(uint256)']-4-[0, 12, 78, 85]
+4: ['b69ef8a8', 'balance()']-7-[0, 12, 63, 120, 131, 178, 138]
+5: ['b69ef8a8', 'balance()']-5-[0, 12, 63, 120, 127]
+6: ['b69ef8a8', 'balance()']-4-[0, 12, 63, 73]
+
+Valided paths:
+2: ['1003e2d2', 'add(uint256)']-6-[0, 12, 78, 89, 160, 118]
+4: ['b69ef8a8', 'balance()']-7-[0, 12, 63, 120, 131, 178, 138]
+
+===================================================
+This Audit Cost: 0.10109114646911621
+{'evm_code_coverage': 100.0, 'time_cost': 0.10109114646911621, 'bytecode_length': 185.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

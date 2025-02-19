@@ -1,0 +1,30 @@
+
+All paths:
+1: []-2-[0, 98]
+2: ['4f798da7', 'UpdateBonusCodeAt(uint256,uint256)']-8-[0, 13, 100, 112, 246, 265, 281, 153]
+3: ['4f798da7', 'UpdateBonusCodeAt(uint256,uint256)']-6-[0, 13, 100, 112, 246, 261]
+4: ['4f798da7', 'UpdateBonusCodeAt(uint256,uint256)']-4-[0, 13, 100, 108]
+5: ['7adde4ef', 'PopBonusCode()']-11-[0, 13, 65, 155, 167, 299, 320, 508, 547, 341, 176]
+6: ['7adde4ef', 'PopBonusCode()']-17-[0, 13, 65, 155, 167, 299, 320, 508, 522, 552, 558, 582, 586, 546, 547, 341, 176]
+7: ['7adde4ef', 'PopBonusCode()']-19-[0, 13, 65, 155, 167, 299, 320, 508, 522, 552, 558, 567, 558, 582, 586, 546, 547, 341, 176]
+8: ['7adde4ef', 'PopBonusCode()']-5-[0, 13, 65, 155, 163]
+9: ['f58fef8e', 'Destroy()']-8-[0, 13, 65, 76, 178, 190, 344, 436]
+10: ['f58fef8e', 'Destroy()']-8-[0, 13, 65, 76, 178, 190, 344, 432]
+11: ['f58fef8e', 'Destroy()']-6-[0, 13, 65, 76, 178, 186]
+12: ['fd10d655', 'PushBonusCode(uint256)']-9-[0, 13, 65, 76, 87, 201, 213, 461, 244]
+13: ['fd10d655', 'PushBonusCode(uint256)']-7-[0, 13, 65, 76, 87, 201, 209]
+14: ['fd10d655', 'PushBonusCode(uint256)']-6-[0, 13, 65, 76, 87, 98]
+
+Valided paths:
+1: []-2-[0, 98]
+2: ['4f798da7', 'UpdateBonusCodeAt(uint256,uint256)']-8-[0, 13, 100, 112, 246, 265, 281, 153]
+5: ['7adde4ef', 'PopBonusCode()']-11-[0, 13, 65, 155, 167, 299, 320, 508, 547, 341, 176]
+6: ['7adde4ef', 'PopBonusCode()']-17-[0, 13, 65, 155, 167, 299, 320, 508, 522, 552, 558, 582, 586, 546, 547, 341, 176]
+7: ['7adde4ef', 'PopBonusCode()']-19-[0, 13, 65, 155, 167, 299, 320, 508, 522, 552, 558, 567, 558, 582, 586, 546, 547, 341, 176]
+9: ['f58fef8e', 'Destroy()']-8-[0, 13, 65, 76, 178, 190, 344, 436]
+12: ['fd10d655', 'PushBonusCode(uint256)']-9-[0, 13, 65, 76, 87, 201, 213, 461, 244]
+14: ['fd10d655', 'PushBonusCode(uint256)']-6-[0, 13, 65, 76, 87, 98]
+
+===================================================
+This Audit Cost: 0.38411998748779297
+{'evm_code_coverage': 98.3, 'time_cost': 0.38411998748779297, 'bytecode_length': 590.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

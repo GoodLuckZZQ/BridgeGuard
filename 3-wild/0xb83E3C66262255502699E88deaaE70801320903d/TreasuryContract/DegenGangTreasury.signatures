@@ -1,0 +1,8 @@
+c7574839: communityWallet()
+8da5cb5b: owner()
+beb08ab9: projectWallet()
+715018a6: renounceOwnership()
+f2fde38b: transferOwnership(address)
+1dcc49e9: vonDoomWallet()
+c7e42b1b: withdrawErc20(address)
+a0ef91df: withdrawEth()

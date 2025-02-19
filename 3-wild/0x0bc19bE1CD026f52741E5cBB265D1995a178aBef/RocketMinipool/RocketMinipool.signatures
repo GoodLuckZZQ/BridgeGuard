@@ -1,0 +1,7 @@
+8dfe8b2d: delegateRollback()
+26d1c068: delegateUpgrade()
+bc7f3b50: getDelegate()
+1dcef0bf: getEffectiveDelegate()
+be1d1d32: getPreviousDelegate()
+8ee7d0cb: getUseLatestDelegate()
+52def61d: setUseLatestDelegate(bool)

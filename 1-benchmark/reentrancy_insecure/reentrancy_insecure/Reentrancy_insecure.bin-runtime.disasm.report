@@ -1,0 +1,14 @@
+
+All paths:
+1: []-2-[0, 65]
+2: ['5fd8c710', 'withdrawBalance()']-9-[0, 13, 70, 82, 93, 256, 261, 277, 91]
+3: ['5fd8c710', 'withdrawBalance()']-8-[0, 13, 70, 82, 93, 256, 261, 273]
+4: ['5fd8c710', 'withdrawBalance()']-4-[0, 13, 70, 78]
+5: ['5fd8c710', 'withdrawBalance()']-3-[0, 13, 65]
+
+Valided paths:
+2: ['5fd8c710', 'withdrawBalance()']-9-[0, 13, 70, 82, 93, 256, 261, 277, 91]
+
+===================================================
+This Audit Cost: 0.12396812438964844
+{'evm_code_coverage': 84.9, 'time_cost': 0.12396812438964844, 'bytecode_length': 350.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

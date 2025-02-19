@@ -1,0 +1,13 @@
+
+All paths:
+1: []-3-[0, 134, 169]
+2: []-3-[0, 134, 165]
+3: []-2-[0, 9]
+
+Valided paths:
+2: []-3-[0, 134, 165]
+3: []-2-[0, 9]
+
+===================================================
+This Audit Cost: 0.041298866271972656
+{'evm_code_coverage': 99.0, 'time_cost': 0.041298866271972656, 'bytecode_length': 175.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

@@ -1,0 +1,3 @@
+9d740bfa: allocate((address,uint256,uint256,uint256,uint256,(bool,bool,uint256,uint256,address,uint256,address)))
+c41c2f24: directory()
+01ffc9a7: supportsInterface(bytes4)

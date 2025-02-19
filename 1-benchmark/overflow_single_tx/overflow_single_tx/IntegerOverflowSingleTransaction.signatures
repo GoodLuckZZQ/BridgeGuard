@@ -1,0 +1,7 @@
+06661abd: count()
+def92d68: overflowaddtostate(uint256)
+0642f32a: overflowlocalonly(uint256)
+e6dca5ea: overflowmulocalonly(uint256)
+5c68bc06: overflowmultostate(uint256)
+69fb0f5d: underflowlocalonly(uint256)
+4c4f50f3: underflowtostate(uint256)

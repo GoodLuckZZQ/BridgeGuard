@@ -1,0 +1,19 @@
+Function signatures:
+635474a6: Harvestcarreths(address)
+aba926aa: buycarreths(address)
+a6454b6f: calculatecarrethBuy(uint256,uint256)
+b8f21673: calculatecarrethBuySimple(uint256)
+dce66ee9: calculatecarrethsell(uint256)
+c9b77242: ethRewards(address)
+12065fe0: getBalance()
+4b634b06: getMyMiners(address)
+cb9114a3: getMycarreths(address)
+8802e21c: getcarrethsSinceLastHarvest(address)
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+3c5f07cb: seedMarket()
+db55b4d7: sellcarreths()
+f2fde38b: transferOwnership(address)
+
+Event signatures:
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)

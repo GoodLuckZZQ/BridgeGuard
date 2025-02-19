@@ -1,0 +1,12 @@
+
+All paths:
+1: ['a5843f08', 'init(uint256,uint256)']-6-[0, 58, 65, 96, 130, 94]
+2: ['a5843f08', 'init(uint256,uint256)']-3-[0, 58, 64]
+3: ['a5843f08', 'init(uint256,uint256)']-2-[0, 56]
+
+Valided paths:
+1: ['a5843f08', 'init(uint256,uint256)']-6-[0, 58, 65, 96, 130, 94]
+
+===================================================
+This Audit Cost: 0.04238104820251465
+{'evm_code_coverage': 100.0, 'time_cost': 0.04238104820251465, 'bytecode_length': 135.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

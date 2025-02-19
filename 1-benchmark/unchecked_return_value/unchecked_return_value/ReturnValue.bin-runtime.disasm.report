@@ -1,0 +1,22 @@
+
+All paths:
+1: []-2-[0, 87]
+2: ['7536185e', 'callchecked(address)']-8-[0, 13, 92, 104, 313, 404, 458, 157]
+3: ['7536185e', 'callchecked(address)']-7-[0, 13, 92, 104, 313, 404, 454]
+4: ['7536185e', 'callchecked(address)']-6-[0, 13, 92, 104, 313, 400]
+5: ['7536185e', 'callchecked(address)']-4-[0, 13, 92, 100]
+6: ['8da5cb5b', 'owner()']-7-[0, 13, 65, 159, 171, 461, 180]
+7: ['8da5cb5b', 'owner()']-5-[0, 13, 65, 159, 167]
+8: ['bf9bd6cb', 'callnotchecked(address)']-9-[0, 13, 65, 76, 246, 258, 498, 589, 311]
+9: ['bf9bd6cb', 'callnotchecked(address)']-8-[0, 13, 65, 76, 246, 258, 498, 585]
+10: ['bf9bd6cb', 'callnotchecked(address)']-6-[0, 13, 65, 76, 246, 254]
+11: ['bf9bd6cb', 'callnotchecked(address)']-5-[0, 13, 65, 76, 87]
+
+Valided paths:
+2: ['7536185e', 'callchecked(address)']-8-[0, 13, 92, 104, 313, 404, 458, 157]
+6: ['8da5cb5b', 'owner()']-7-[0, 13, 65, 159, 171, 461, 180]
+8: ['bf9bd6cb', 'callnotchecked(address)']-9-[0, 13, 65, 76, 246, 258, 498, 589, 311]
+
+===================================================
+This Audit Cost: 0.2167959213256836
+{'evm_code_coverage': 100.0, 'time_cost': 0.2167959213256836, 'bytecode_length': 637.0, 'vulnerabilities': {'unchecked_return_value': True, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

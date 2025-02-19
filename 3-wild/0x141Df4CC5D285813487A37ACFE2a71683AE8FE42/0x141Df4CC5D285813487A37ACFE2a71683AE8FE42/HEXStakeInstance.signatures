@@ -1,0 +1,7 @@
+780900dc: create(uint256)
+83197ef0: destroy()
+4313ae42: goodAccounting()
+c4d66de8: initialize(address)
+a8d5fd65: share()
+acee069e: stakeDataFetch()
+7396ca65: update(((uint40,uint72,uint16,uint16),uint256,uint256,uint256,uint256,uint256,uint256,bool))

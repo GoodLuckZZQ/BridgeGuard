@@ -1,0 +1,19 @@
+
+All paths:
+1: []-2-[0, 87]
+2: ['18160ddd', 'totalSupply()']-6-[0, 13, 92, 103, 300, 111]
+3: ['18160ddd', 'totalSupply()']-4-[0, 13, 92, 99]
+4: ['70a08231', 'balanceOf(address)']-7-[0, 13, 65, 133, 144, 306, 188]
+5: ['70a08231', 'balanceOf(address)']-5-[0, 13, 65, 133, 140]
+6: ['a9059cbb', 'transfer(address,uint256)']-9-[0, 13, 65, 76, 210, 221, 378, 459, 274]
+7: ['a9059cbb', 'transfer(address,uint256)']-6-[0, 13, 65, 76, 210, 217]
+8: ['a9059cbb', 'transfer(address,uint256)']-5-[0, 13, 65, 76, 87]
+
+Valided paths:
+2: ['18160ddd', 'totalSupply()']-6-[0, 13, 92, 103, 300, 111]
+4: ['70a08231', 'balanceOf(address)']-7-[0, 13, 65, 133, 144, 306, 188]
+6: ['a9059cbb', 'transfer(address,uint256)']-9-[0, 13, 65, 76, 210, 221, 378, 459, 274]
+
+===================================================
+This Audit Cost: 0.16412639617919922
+{'evm_code_coverage': 99.0, 'time_cost': 0.16412639617919922, 'bytecode_length': 622.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

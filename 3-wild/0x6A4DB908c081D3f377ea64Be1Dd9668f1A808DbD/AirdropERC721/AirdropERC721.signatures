@@ -1,0 +1,7 @@
+e4485ca4: airdrop(address,address,address[],uint256[])
+cb2ef6f7: contractType()
+a0a8e460: contractVersion()
+c4d66de8: initialize(address)
+ac9650d8: multicall(bytes[])
+8da5cb5b: owner()
+13af4035: setOwner(address)

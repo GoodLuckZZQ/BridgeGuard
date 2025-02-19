@@ -1,0 +1,9 @@
+
+All paths:
+1: []-1-[0]
+
+Valided paths:
+
+===================================================
+This Audit Cost: 0.005746126174926758
+{'evm_code_coverage': 90.0, 'time_cost': 0.005746126174926758, 'bytecode_length': 33.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

@@ -1,0 +1,22 @@
+
+All paths:
+1: ['5c23bdf5', 'resolve(bytes32)']-5-[0, 95, 106, 449, 132]
+2: ['5c23bdf5', 'resolve(bytes32)']-3-[0, 95, 102]
+3: ['6a5e2650', 'unlocked()']-6-[0, 57, 198, 209, 500, 217]
+4: ['6a5e2650', 'unlocked()']-4-[0, 57, 198, 205]
+5: ['d22057a9', 'register(bytes32,address)']-9-[0, 57, 68, 243, 254, 518, 902, 903, 311]
+6: ['d22057a9', 'register(bytes32,address)']-7-[0, 57, 68, 243, 254, 518, 898]
+7: ['d22057a9', 'register(bytes32,address)']-5-[0, 57, 68, 243, 250]
+8: ['e59a0407', 'registeredNameRecord(address)']-8-[0, 57, 68, 79, 313, 324, 908, 368]
+9: ['e59a0407', 'registeredNameRecord(address)']-6-[0, 57, 68, 79, 313, 320]
+10: ['e59a0407', 'registeredNameRecord(address)']-5-[0, 57, 68, 79, 90]
+
+Valided paths:
+1: ['5c23bdf5', 'resolve(bytes32)']-5-[0, 95, 106, 449, 132]
+3: ['6a5e2650', 'unlocked()']-6-[0, 57, 198, 209, 500, 217]
+5: ['d22057a9', 'register(bytes32,address)']-9-[0, 57, 68, 243, 254, 518, 902, 903, 311]
+8: ['e59a0407', 'registeredNameRecord(address)']-8-[0, 57, 68, 79, 313, 324, 908, 368]
+
+===================================================
+This Audit Cost: 0.16160202026367188
+{'evm_code_coverage': 100.0, 'time_cost': 0.16160202026367188, 'bytecode_length': 977.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

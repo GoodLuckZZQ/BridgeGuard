@@ -1,0 +1,10 @@
+
+All paths:
+1: ['a56a3b5a', 'sudicideAnyone()']-4-[0, 57, 62, 74]
+
+Valided paths:
+1: ['a56a3b5a', 'sudicideAnyone()']-4-[0, 57, 62, 74]
+
+===================================================
+This Audit Cost: 0.0407559871673584
+{'evm_code_coverage': 89.5, 'time_cost': 0.0407559871673584, 'bytecode_length': 101.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

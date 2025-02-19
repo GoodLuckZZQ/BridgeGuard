@@ -1,0 +1,20 @@
+Function signatures:
+be309bca: BRIBE_VAULT()
+a217fddf: DEFAULT_ADMIN_ROLE()
+56853398: claim((bytes32,address,uint256,bytes32[])[])
+dfcae622: claimed(bytes32,address)
+248a9ca3: getRoleAdmin(bytes32)
+2f2ff15d: grantRole(bytes32,address)
+91d14854: hasRole(bytes32,address)
+36568abe: renounceRole(bytes32,address)
+d547741f: revokeRole(bytes32,address)
+938d967a: rewards(bytes32)
+01ffc9a7: supportsInterface(bytes4)
+df45c752: updateRewardsMetadata((bytes32,address,bytes32,bytes32)[])
+
+Event signatures:
+e97327a75925a1929d8a2cc8d1344ac8e15a997f071c43097349293d970929ab: RewardClaimed(bytes32,address,address,uint256,uint256)
+1d0b6716ec306cca1346fdec2c918d00831bd1239f2d28acf62e94f2373355fc: RewardMetadataUpdated(bytes32,address,bytes32,bytes32,uint256)
+bd79b86ffe0ab8e8776151514217cd7cacd52c909f66475c3af44e129f0b00ff: RoleAdminChanged(bytes32,bytes32,bytes32)
+2f8788117e7eff1d82e926ec794901d17c78024a50270940304540a733656f0d: RoleGranted(bytes32,address,address)
+f6391f5c32d9c69d2a47ea670b442974b53935d1edc7fd64eb21e047a839171b: RoleRevoked(bytes32,address,address)

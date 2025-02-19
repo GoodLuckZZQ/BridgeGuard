@@ -1,0 +1,7 @@
+57f784ba: confirm(bytes32,bytes32)
+8da5cb5b: owner()
+4020ed14: refund(bytes32,address,uint256)
+0fc63d10: tokenA()
+4a0d31d9: transferIn(address,address,uint256,bytes32,uint64,uint64,bytes32,bytes)
+2d609779: transferOut(address,address,uint256,bytes32,uint64,uint64,address,bytes)
+3c64f04b: transfers(bytes32)

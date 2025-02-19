@@ -1,0 +1,18 @@
+
+All paths:
+1: []-2-[0, 76]
+2: ['27e235e3', 'balances(address)']-6-[0, 13, 154, 166, 264, 219]
+3: ['27e235e3', 'balances(address)']-4-[0, 13, 154, 162]
+4: ['3ccfd60b', 'withdraw()']-7-[0, 13, 65, 241, 253, 288, 262]
+5: ['3ccfd60b', 'withdraw()']-5-[0, 13, 65, 241, 249]
+6: ['3ccfd60b', 'withdraw()']-4-[0, 13, 65, 76]
+
+Valided paths:
+1: []-2-[0, 76]
+2: ['27e235e3', 'balances(address)']-6-[0, 13, 154, 166, 264, 219]
+4: ['3ccfd60b', 'withdraw()']-7-[0, 13, 65, 241, 253, 288, 262]
+6: ['3ccfd60b', 'withdraw()']-4-[0, 13, 65, 76]
+
+===================================================
+This Audit Cost: 0.13753604888916016
+{'evm_code_coverage': 100.0, 'time_cost': 0.13753604888916016, 'bytecode_length': 466.0, 'vulnerabilities': {'unchecked_return_value': True, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

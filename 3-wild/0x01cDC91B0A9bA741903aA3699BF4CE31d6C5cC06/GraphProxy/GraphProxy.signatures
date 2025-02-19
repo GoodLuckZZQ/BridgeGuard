@@ -1,0 +1,7 @@
+59fc20bb: acceptUpgrade()
+623faf61: acceptUpgradeAndCall(bytes)
+f851a440: admin()
+5c60da1b: implementation()
+396f7b23: pendingImplementation()
+704b6c02: setAdmin(address)
+3659cfe6: upgradeTo(address)

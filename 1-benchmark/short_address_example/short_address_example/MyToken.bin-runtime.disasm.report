@@ -1,0 +1,17 @@
+
+All paths:
+1: ['90b98a11', 'sendCoin(address,uint256)']-7-[0, 70, 78, 231, 313, 573, 131]
+2: ['90b98a11', 'sendCoin(address,uint256)']-7-[0, 70, 78, 231, 305, 573, 131]
+3: ['90b98a11', 'sendCoin(address,uint256)']-3-[0, 70, 77]
+4: ['f8b2cb4f', 'getBalance(address)']-7-[0, 57, 157, 165, 579, 648, 209]
+5: ['f8b2cb4f', 'getBalance(address)']-4-[0, 57, 157, 164]
+6: ['f8b2cb4f', 'getBalance(address)']-3-[0, 57, 68]
+
+Valided paths:
+1: ['90b98a11', 'sendCoin(address,uint256)']-7-[0, 70, 78, 231, 313, 573, 131]
+2: ['90b98a11', 'sendCoin(address,uint256)']-7-[0, 70, 78, 231, 305, 573, 131]
+4: ['f8b2cb4f', 'getBalance(address)']-7-[0, 57, 157, 165, 579, 648, 209]
+
+===================================================
+This Audit Cost: 0.10078287124633789
+{'evm_code_coverage': 100.0, 'time_cost': 0.10078287124633789, 'bytecode_length': 654.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

@@ -1,0 +1,33 @@
+
+All paths:
+1: []-2-[0, 109]
+2: ['095ea7b3', 'approve(address,uint256)']-7-[0, 13, 114, 126, 655, 716, 189]
+3: ['095ea7b3', 'approve(address,uint256)']-6-[0, 13, 114, 126, 655, 712]
+4: ['095ea7b3', 'approve(address,uint256)']-4-[0, 13, 114, 122]
+5: ['23b872dd', 'transferFrom(address,address,uint256)']-19-[0, 13, 65, 215, 227, 956, 1035, 1174, 1234, 2662, 2680, 1315, 2695, 2718, 1462, 2662, 2680, 1671, 322]
+6: ['23b872dd', 'transferFrom(address,address,uint256)']-14-[0, 13, 65, 215, 227, 956, 1035, 1174, 1234, 2662, 2680, 1315, 2695, 2714]
+7: ['23b872dd', 'transferFrom(address,address,uint256)']-9-[0, 13, 65, 215, 227, 956, 1035, 1174, 1230]
+8: ['23b872dd', 'transferFrom(address,address,uint256)']-8-[0, 13, 65, 215, 227, 956, 1035, 1170]
+9: ['23b872dd', 'transferFrom(address,address,uint256)']-7-[0, 13, 65, 215, 227, 956, 1031]
+10: ['23b872dd', 'transferFrom(address,address,uint256)']-5-[0, 13, 65, 215, 223]
+11: ['70a08231', 'balanceOf(address)']-8-[0, 13, 65, 76, 348, 360, 1911, 413]
+12: ['70a08231', 'balanceOf(address)']-6-[0, 13, 65, 76, 348, 356]
+13: ['a9059cbb', 'transfer(address,uint256)']-17-[0, 13, 65, 76, 87, 435, 447, 1983, 2062, 2122, 2662, 2680, 2203, 2695, 2718, 2350, 510]
+14: ['a9059cbb', 'transfer(address,uint256)']-15-[0, 13, 65, 76, 87, 435, 447, 1983, 2062, 2122, 2662, 2680, 2203, 2695, 2714]
+15: ['a9059cbb', 'transfer(address,uint256)']-10-[0, 13, 65, 76, 87, 435, 447, 1983, 2062, 2118]
+16: ['a9059cbb', 'transfer(address,uint256)']-9-[0, 13, 65, 76, 87, 435, 447, 1983, 2058]
+17: ['a9059cbb', 'transfer(address,uint256)']-7-[0, 13, 65, 76, 87, 435, 443]
+18: ['dd62ed3e', 'allowance(address,address)']-10-[0, 13, 65, 76, 87, 98, 536, 548, 2527, 633]
+19: ['dd62ed3e', 'allowance(address,address)']-8-[0, 13, 65, 76, 87, 98, 536, 544]
+20: ['dd62ed3e', 'allowance(address,address)']-7-[0, 13, 65, 76, 87, 98, 109]
+
+Valided paths:
+2: ['095ea7b3', 'approve(address,uint256)']-7-[0, 13, 114, 126, 655, 716, 189]
+5: ['23b872dd', 'transferFrom(address,address,uint256)']-19-[0, 13, 65, 215, 227, 956, 1035, 1174, 1234, 2662, 2680, 1315, 2695, 2718, 1462, 2662, 2680, 1671, 322]
+11: ['70a08231', 'balanceOf(address)']-8-[0, 13, 65, 76, 348, 360, 1911, 413]
+13: ['a9059cbb', 'transfer(address,uint256)']-17-[0, 13, 65, 76, 87, 435, 447, 1983, 2062, 2122, 2662, 2680, 2203, 2695, 2718, 2350, 510]
+18: ['dd62ed3e', 'allowance(address,address)']-10-[0, 13, 65, 76, 87, 98, 536, 548, 2527, 633]
+
+===================================================
+This Audit Cost: 0.4719517230987549
+{'evm_code_coverage': 99.7, 'time_cost': 0.4719517230987549, 'bytecode_length': 2729.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

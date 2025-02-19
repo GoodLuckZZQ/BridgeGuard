@@ -1,0 +1,8 @@
+949c485b: addPlugin(uint256,bytes)
+8629d6a8: attachPlugin(uint256,bytes)
+1b039174: migrateTimestamp(uint256,bytes)
+f9bcfa15: otocoMaster()
+8da5cb5b: owner()
+efcf936e: removePlugin(uint256,bytes)
+715018a6: renounceOwnership()
+f2fde38b: transferOwnership(address)

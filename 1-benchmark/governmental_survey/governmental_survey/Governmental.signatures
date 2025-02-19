@@ -1,0 +1,7 @@
+51294de7: resetInvestment()
+552eea49: ONE_MINUTE()
+6b31ee01: jackpot()
+8da5cb5b: owner()
+b2977aeb: lastInvestor()
+e8b5e51f: invest()
+ee2bee59: lastInvestmentTimestamp()

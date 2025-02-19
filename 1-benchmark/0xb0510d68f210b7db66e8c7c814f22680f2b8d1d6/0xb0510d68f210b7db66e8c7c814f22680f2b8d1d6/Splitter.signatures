@@ -1,0 +1,8 @@
+6f2641e1: extra(uint256)
+2daeb49a: fundPuppets()
+4962b964: getPuppetCount()
+8dd7d6d1: newPuppet()
+8da5cb5b: owner()
+0a46e3e9: puppets(uint256)
+54dfbca8: setExtra(uint256,address)
+3ccfd60b: withdraw()

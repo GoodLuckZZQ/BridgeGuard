@@ -1,0 +1,15 @@
+Function signatures:
+aa3ec0a9: cid()
+d8f4eeed: encoding()
+5e8695ab: initialize(bytes32,bytes32,bool)
+031e8f33: token_withdrawn(address,address)
+a3c2c462: totalReceived()
+971d7fdc: total_token_withdrawn(address)
+45e11b09: withdraw(address,uint256,bytes32[],address[])
+6ef61092: withdrawn(address)
+
+Error signatures:
+90b8ec18: TransferFailed()
+
+Event signatures:
+7f26b83ff96e1f2b6a682f133852f6798a09c465da95921460cefb3847402498: Initialized(uint8)

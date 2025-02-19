@@ -1,0 +1,7 @@
+7fbbe46f: initialize(address[],uint256[])
+8b83209b: payee(uint256)
+19165587: release(address)
+9852595c: released(address)
+ce7c2ac2: shares(address)
+e33b7de3: totalReleased()
+3a98ef39: totalShares()

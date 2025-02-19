@@ -1,0 +1,23 @@
+Function signatures:
+c1a287e2: GRACE_PERIOD()
+7d645fab: MAXIMUM_DELAY()
+b1b43ae5: MINIMUM_DELAY()
+0e18b681: acceptAdmin()
+f851a440: admin()
+591fcdfe: cancelTransaction(address,uint256,string,bytes,uint256)
+6a42b8f8: delay()
+0825f38f: executeTransaction(address,uint256,string,bytes,uint256)
+c4d66de8: initialize(address)
+26782247: pendingAdmin()
+3a66f901: queueTransaction(address,uint256,string,bytes,uint256)
+f2b06537: queuedTransactions(bytes32)
+e177246e: setDelay(uint256)
+4dd18bf5: setPendingAdmin(address)
+
+Event signatures:
+2fffc091a501fd91bfbff27141450d3acb40fb8e6d8382b243ec7a812a3aaf87: CancelTransaction(bytes32,address,uint256,string,bytes,uint256)
+a560e3198060a2f10670c1ec5b403077ea6ae93ca8de1c32b451dc1a943cd6e7: ExecuteTransaction(bytes32,address,uint256,string,bytes,uint256)
+71614071b88dee5e0b2ae578a9dd7b2ebbe9ae832ba419dc0242cd065a290b6c: NewAdmin(address)
+948b1f6a42ee138b7e34058ba85a37f716d55ff25ff05a763f15bed6a04c8d2c: NewDelay(uint256)
+69d78e38a01985fbb1462961809b4b2d65531bc93b2b94037f3334b82ca4a756: NewPendingAdmin(address)
+76e2796dc3a81d57b0e8504b647febcbeeb5f4af818e164f11eef8131a6a763f: QueueTransaction(bytes32,address,uint256,string,bytes,uint256)

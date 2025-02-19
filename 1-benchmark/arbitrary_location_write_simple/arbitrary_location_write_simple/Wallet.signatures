@@ -1,0 +1,4 @@
+f58fef8e: Destroy()
+7adde4ef: PopBonusCode()
+fd10d655: PushBonusCode(uint256)
+4f798da7: UpdateBonusCodeAt(uint256,uint256)

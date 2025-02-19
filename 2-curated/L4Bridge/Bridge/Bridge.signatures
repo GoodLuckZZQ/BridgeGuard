@@ -1,0 +1,22 @@
+Function signatures:
+726f77e3: addReserve(uint256,uint256)
+b99152d0: balanceOfToken(address)
+1125f13f: getAmountIn(uint256,address)
+f140a35a: getAmountOut(uint256,address)
+59bf5d39: getReserve()
+a93b6595: mints(address,address,uint256,bytes)
+8da5cb5b: owner()
+715018a6: renounceOwnership()
+adc9772e: stake(address,uint256)
+0c487c46: tokenA_addr()
+5608ae5f: tokenB_addr()
+f2fde38b: transferOwnership(address)
+
+Error signatures:
+f4d678b8: InsufficientBalance()
+1eb00b06: InvalidTokenAddress()
+
+Event signatures:
+ab8530f87dc9b59234c4623bf917212bb2536d647574c8e7e5da92c2ede0c9f8: Mint(address,address,uint256)
+8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0: OwnershipTransferred(address,address)
+99039fcf0a98f484616c5196ee8b2ecfa971babf0b519848289ea4db381f85f7: Stake(address,address,uint256)

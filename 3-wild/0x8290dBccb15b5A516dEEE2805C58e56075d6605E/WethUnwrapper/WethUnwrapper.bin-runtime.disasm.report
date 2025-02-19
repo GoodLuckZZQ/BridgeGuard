@@ -1,0 +1,22 @@
+
+All paths:
+1: []-3-[0, 34, 49]
+2: []-6-[0, 34, 40, 292, 425, 47]
+3: []-5-[0, 34, 40, 292, 376]
+4: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-15-[0, 13, 54, 66, 89, 222, 240, 274, 427, 542, 562, 667, 672, 731, 290]
+5: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-11-[0, 13, 54, 66, 89, 222, 240, 274, 427, 542, 553]
+6: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-10-[0, 13, 54, 66, 89, 222, 240, 274, 427, 538]
+7: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-8-[0, 13, 54, 66, 89, 222, 240, 270]
+8: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-7-[0, 13, 54, 66, 89, 222, 236]
+9: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-6-[0, 13, 54, 66, 89, 218]
+10: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-5-[0, 13, 54, 66, 85]
+11: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-4-[0, 13, 54, 62]
+12: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-4-[0, 13, 30, 49]
+
+Valided paths:
+2: []-6-[0, 34, 40, 292, 425, 47]
+4: ['3504ed62', 'fillOrderPostInteraction(bytes32,address,address,uint256,uint256,uint256,bytes)']-15-[0, 13, 54, 66, 89, 222, 240, 274, 427, 542, 562, 667, 672, 731, 290]
+
+===================================================
+This Audit Cost: 0.35297513008117676
+{'evm_code_coverage': 89.7, 'time_cost': 0.35297513008117676, 'bytecode_length': 743.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': True, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': True}}

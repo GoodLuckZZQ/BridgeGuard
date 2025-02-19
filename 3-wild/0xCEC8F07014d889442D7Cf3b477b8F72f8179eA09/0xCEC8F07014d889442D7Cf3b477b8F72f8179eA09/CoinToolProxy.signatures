@@ -1,0 +1,6 @@
+5c60da1b: implementation()
+025313a2: proxyOwner()
+f1739cae: transferProxyOwnership(address)
+36ba9794: upgradeTo(address,string)
+d7e24337: upgradeToAndCall(address,string,bytes)
+54fd4d50: version()

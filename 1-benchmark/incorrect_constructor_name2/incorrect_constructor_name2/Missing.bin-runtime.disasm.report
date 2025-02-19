@@ -1,0 +1,20 @@
+
+All paths:
+1: []-2-[0, 76]
+2: ['3ccfd60b', 'withdraw()']-8-[0, 13, 78, 90, 124, 215, 341, 99]
+3: ['3ccfd60b', 'withdraw()']-7-[0, 13, 78, 90, 124, 215, 332]
+4: ['3ccfd60b', 'withdraw()']-6-[0, 13, 78, 90, 124, 211]
+5: ['3ccfd60b', 'withdraw()']-4-[0, 13, 78, 86]
+6: ['a8b00865', 'missing()']-7-[0, 13, 65, 101, 113, 344, 122]
+7: ['a8b00865', 'missing()']-5-[0, 13, 65, 101, 109]
+8: ['a8b00865', 'missing()']-4-[0, 13, 65, 76]
+
+Valided paths:
+1: []-2-[0, 76]
+2: ['3ccfd60b', 'withdraw()']-8-[0, 13, 78, 90, 124, 215, 341, 99]
+6: ['a8b00865', 'missing()']-7-[0, 13, 65, 101, 113, 344, 122]
+8: ['a8b00865', 'missing()']-4-[0, 13, 65, 76]
+
+===================================================
+This Audit Cost: 0.15308618545532227
+{'evm_code_coverage': 100.0, 'time_cost': 0.15308618545532227, 'bytecode_length': 411.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

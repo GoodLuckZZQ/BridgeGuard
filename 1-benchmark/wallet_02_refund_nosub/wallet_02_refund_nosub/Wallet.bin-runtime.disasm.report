@@ -1,0 +1,27 @@
+
+All paths:
+1: []-2-[0, 98]
+2: ['2e1a7d4d', 'withdraw(uint256)']-8-[0, 13, 103, 115, 248, 326, 396, 146]
+3: ['2e1a7d4d', 'withdraw(uint256)']-7-[0, 13, 103, 115, 248, 326, 387]
+4: ['2e1a7d4d', 'withdraw(uint256)']-6-[0, 13, 103, 115, 248, 322]
+5: ['2e1a7d4d', 'withdraw(uint256)']-4-[0, 13, 103, 111]
+6: ['4ddaf8f2', 'migrateTo(address)']-9-[0, 13, 65, 148, 160, 477, 568, 661, 213]
+7: ['4ddaf8f2', 'migrateTo(address)']-8-[0, 13, 65, 148, 160, 477, 568, 652]
+8: ['4ddaf8f2', 'migrateTo(address)']-7-[0, 13, 65, 148, 160, 477, 564]
+9: ['4ddaf8f2', 'migrateTo(address)']-5-[0, 13, 65, 148, 156]
+10: ['590e1ae3', 'refund()']-9-[0, 13, 65, 76, 215, 227, 665, 798, 236]
+11: ['590e1ae3', 'refund()']-8-[0, 13, 65, 76, 215, 227, 665, 789]
+12: ['590e1ae3', 'refund()']-6-[0, 13, 65, 76, 215, 223]
+13: ['d0e30db0', 'deposit()']-9-[0, 13, 65, 76, 87, 238, 801, 940, 246]
+14: ['d0e30db0', 'deposit()']-8-[0, 13, 65, 76, 87, 238, 801, 939]
+15: ['d0e30db0', 'deposit()']-6-[0, 13, 65, 76, 87, 98]
+
+Valided paths:
+2: ['2e1a7d4d', 'withdraw(uint256)']-8-[0, 13, 103, 115, 248, 326, 396, 146]
+6: ['4ddaf8f2', 'migrateTo(address)']-9-[0, 13, 65, 148, 160, 477, 568, 661, 213]
+10: ['590e1ae3', 'refund()']-9-[0, 13, 65, 76, 215, 227, 665, 798, 236]
+13: ['d0e30db0', 'deposit()']-9-[0, 13, 65, 76, 87, 238, 801, 940, 246]
+
+===================================================
+This Audit Cost: 0.41266727447509766
+{'evm_code_coverage': 100.0, 'time_cost': 0.41266727447509766, 'bytecode_length': 1020.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

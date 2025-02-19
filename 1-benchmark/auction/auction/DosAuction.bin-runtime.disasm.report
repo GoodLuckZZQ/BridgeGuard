@@ -1,0 +1,15 @@
+
+All paths:
+1: ['1998aeef', 'bid()']-7-[0, 62, 72, 88, 253, 325, 70]
+2: ['1998aeef', 'bid()']-9-[0, 62, 72, 88, 154, 252, 253, 325, 70]
+3: ['1998aeef', 'bid()']-6-[0, 62, 72, 88, 154, 248]
+4: ['1998aeef', 'bid()']-4-[0, 62, 72, 84]
+5: ['1998aeef', 'bid()']-2-[0, 57]
+
+Valided paths:
+1: ['1998aeef', 'bid()']-7-[0, 62, 72, 88, 253, 325, 70]
+2: ['1998aeef', 'bid()']-9-[0, 62, 72, 88, 154, 252, 253, 325, 70]
+
+===================================================
+This Audit Cost: 0.14136624336242676
+{'evm_code_coverage': 100.0, 'time_cost': 0.14136624336242676, 'bytecode_length': 328.0, 'vulnerabilities': {'unchecked_return_value': False, 'reentrancy': False, 'Crosschain_Function_Call': False, 'Unprotected_Data_Injection': False}}

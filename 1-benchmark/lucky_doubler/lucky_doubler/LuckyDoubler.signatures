@@ -1,0 +1,8 @@
+30677b83: multiplierFactor()
+6a1db1bf: changeFee(uint256)
+7fef036e: totalEntries()
+8a65d874: userStats(address)
+a6f9dae1: changeOwner(address)
+ced92670: changeMultiplier(uint256)
+da3c300d: currentFee()
+f67abd87: entryDetails(uint256)

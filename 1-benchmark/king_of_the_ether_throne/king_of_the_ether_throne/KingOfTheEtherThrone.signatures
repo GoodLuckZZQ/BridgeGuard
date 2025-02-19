@@ -1,0 +1,7 @@
+0eb3f5a0: sweepCommission(uint256)
+64325ddb: currentClaimPrice()
+7842c52d: pastMonarchs(uint256)
+b66a323c: claimThrone(string)
+c8fdc891: numberOfMonarchs()
+e40d0ac3: currentMonarch()
+f2fde38b: transferOwnership(address)

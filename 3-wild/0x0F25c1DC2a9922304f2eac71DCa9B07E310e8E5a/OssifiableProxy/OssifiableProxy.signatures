@@ -1,0 +1,7 @@
+773f5be8: proxy__changeAdmin(address)
+916f1fd7: proxy__getAdmin()
+ad729a71: proxy__getImplementation()
+13351258: proxy__getIsOssified()
+adcbc237: proxy__ossify()
+3ebdd0eb: proxy__upgradeTo(address)
+d2f6ed4d: proxy__upgradeToAndCall(address,bytes,bool)

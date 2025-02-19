@@ -1,0 +1,5 @@
+d6354e15: hasRegisteredFact()
+eeb72866: identify()
+6a938567: isValid(bytes32)
+a9059cbb: transfer(address,uint256)
+55a2ba68: transferERC20(address,address,uint256,uint256)
